@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px"> Hello, there! I'm Mazharul Islam,
-> I am an <span style="background:#afb8c133">`experienced web developer`</span>, based in United Arab Emirats, 
+> I am an <span style="background:#afb8c133; color: #000">`experienced web developer`</span>, based in United Arab Emirats, 
 <br>I craft website with `intuitive` and `engaging` user interfaces, integrate functionality with seamless user experiences.
 <br>Also I'm learning 📚 and building 🛠️ new things everyday.
 > 
