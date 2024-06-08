@@ -10,10 +10,8 @@
 - 💬 Ping me about **web-design**, **web-development** 
  <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
 - 📫 Reach me at:
-<br> [Linked In](https://www.linkedin.com/in/maaazhar/),
-<br> [Portfolio](https://mazharul-islam.web.app/),
-<br> [Email](mailto:mailformazhar@gmail.com/),
-<br> [Facebook](https://www.facebook.com/maaazhaaar/)
+<br>  [Linked In](https://www.linkedin.com/in/maaazhar/),   [Email](mailto:mailformazhar@gmail.com/),
+<br>  [Portfolio](https://mazharul-islam.web.app/),   [Facebook](https://www.facebook.com/maaazhaaar/)
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 ## Technologies & Tools
