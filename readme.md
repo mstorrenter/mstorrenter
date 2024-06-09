@@ -1,7 +1,9 @@
 # <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px"> Hello, there! I'm Mazharul Islam,
-> I am an <span style="color:#000">experienced web developer</span>, based in United Arab Emirats, 
-<br>I craft website with `intuitive` and `engaging` user interfaces, integrate functionality with seamless user experiences.
-<br>Also I'm learning 📚 and building 🛠️ new things everyday.
+> I am an experienced Web Developer, I bring designs to life, crafting interactive and visually engaging user interfaces that seamlessly blend in form with functionality. Utilizing my expertise in HTML, CSS, JavaScript, and ReactJS.<br>
+I ensure websites and web applications not only look stunning but also deliver intuitive and responsive experiences across various devices and browsers. From concept to execution, I strive to enhance user satisfaction by continuously refining and optimizing the digital journey. I ensure that every aspect of a website or application aligns with both aesthetic goals and usability requirements.<br>
+Beyond just coding, I continually explore emerging technologies and best practices to enhance performance, accessibility, and user experience.
+Whether it is optimizing for speed, ensuring cross-browser compatibility, or integrating cutting-edge features, my passion lies in delivering polished, user-centric solutions that elevate the digital landscape and leave a lasting impression on visitors.<br>
+Also I'm learning 📚 and building 🛠️ new things everyday.
 > 
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `react.js`, `Next.js`, `typeScrip`, `node.js`, `express.js`, `git`, `gitHub`, `VS code`, `chromeDevTool`, `figma`, `firebase`, `netlify`, `vercel`,`.js`, `.jsx`, `.ts`,  `.svg`, `.fig` `.c`, `.c++`, `.psd`, `.ai`
