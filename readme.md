@@ -32,7 +32,6 @@ Also I'm learning 📚 and building 🛠️ new things everyday.
 ![](https://img.shields.io/badge/Tool-Adobe&nbsp;XD-informational?style=flat&logo=adobe%20xd&logoColor=white&color=628FDB)
 
 ## Overview
-<span style="display: flex; justify-content: space-around;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaazhar&layout=compact&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
- [![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaazhar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
- </span>
+
+[![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaazhar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
