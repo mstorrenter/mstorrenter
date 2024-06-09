@@ -34,5 +34,4 @@ Also I'm learning 📚 and building 🛠️ new things everyday.
 ## Overview
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaazhar&layout=compact&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
-
 [![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaazhar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
